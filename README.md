@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de Prueba Modulo2 Henry
+Esto es un proyecto de prueba Henry Come
